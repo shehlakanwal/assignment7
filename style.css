@@ -1,0 +1,38 @@
+h1{
+
+    display: inline-block;
+
+    color: black;
+
+    background-color: white;
+    border-radius: 5px;
+
+    width: 80px;
+    margin: 4px 6px 10px;
+}
+
+body{
+
+    background-color: black;
+    text-align: center;
+
+   
+
+}
+
+button{
+
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 4px 6px 10px;
+   font-weight: bold;
+   color: black;
+   background-color: white;
+
+}
+
+.di{
+
+    margin-top: 150px;
+}
